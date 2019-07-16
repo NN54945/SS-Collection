@@ -1,7 +1,8 @@
 # SS-Collection
 
 常用资源汇集，仅个人收集向
-
+</br>
+酸酸乳使用说明，原文地址：[click here](https://www.paofucloud.pw/user/ticket)
 ## App
 
 ### Shadowsocks
